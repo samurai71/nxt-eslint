@@ -23,7 +23,6 @@ const eslintConfig = [
             'out/**',
             'build/**',
             'next-env.d.ts',
-            '.history/**',
         ],
     },
 ]

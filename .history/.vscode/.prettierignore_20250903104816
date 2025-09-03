@@ -1,0 +1,13 @@
+# Ignore files and directories
+node_modules
+.next
+.git
+.cache
+
+# Ignore build output
+dist
+out
+
+# Ignore config files
+.prettierignore
+.eslintrc.json
